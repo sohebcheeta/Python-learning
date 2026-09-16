@@ -18,4 +18,6 @@ I'm building my programming skills step by step and working toward a career in t
 
 Progress
 
-I'm adding my practice programs and projects to this repository as I learn.
+- Day 1–5: Python basics, conditions, loops, functions, and lists
+- Day 6: Lists and list methods
+- Day 7: Conditions with loops, `and`, `or`, and `%`
